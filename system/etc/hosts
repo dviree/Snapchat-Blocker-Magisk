@@ -1,0 +1,10 @@
+# Logged and created by juxstin #
+
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 sc-analytics.appspot.com 

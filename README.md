@@ -1,2 +1,7 @@
 # Snapchat-Blocker-Magisk
-Blocks snapchat logging/analytics
+
+[What it Blocks]
++ Analytics
++ Ads
++ Logs
++ Fingerprints

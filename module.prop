@@ -1,0 +1,9 @@
+id=snap-host-blocker
+name=Snapchat Host Blocker
+version=v1.0.1
+versionCode=1
+author=Juxstin
+description=Blocks Analytics And ADS
+support=https://discord.gg/pmc5QZb
+donate=https://selly.gg/@JuxstinDev
+minMagisk=17000
