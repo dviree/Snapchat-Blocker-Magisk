@@ -6,6 +6,11 @@
 
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 staging2-dot-sc-analytics.appspot.com
