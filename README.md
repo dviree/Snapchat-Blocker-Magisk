@@ -5,3 +5,6 @@
 + Ads
 + Logs
 + Fingerprints
+
+
+Buy me a coffee: https://selly.gg/p/fd81f6cc
