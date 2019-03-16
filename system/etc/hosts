@@ -18,3 +18,6 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 staging2-dot-sc-analytics.appspot.com
 0.0.0.0 staging.app-analytics.snapchat.com
+0.0.0.0 ad-center.snapchat.com
+0.0.0.0 adserver.staging.snapads.com
+0.0.0.0 snapchat-snapads-portal.appspot.com
