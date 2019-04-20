@@ -1,13 +1,19 @@
-# Snapchat-Blocker-Magisk
+# Snap Host Blocker By Justin
 
-[What it Blocks]
-+ Analytics
-+ Ads
-+ Logs
-+ Fingerprints
+**[Includes the following]**
++ Ad Blocking
++ Analytics Blocking
++ Potential ban prevention on 10.20 +
++ Data saving (For celluar / wifi)
 
-**NOTE**
-+ No Longer Prevents bans on 10.50+ of snapchat (LOOKING INTO THIS)
+**[Credits]**
++ Justin
++ topjohnwu (Making magisk)
++ Snaptools (For moral support)
 
+**[Contact]**
++ https://github.com/Juxstin/
++ https://discord.gg/pmc5QZb (Offical Snaptools server)
 
-Buy me a coffee: https://selly.gg/p/fd81f6cc
+**[Donate]**
++ https://shoppy.gg/product/4v33JGL
