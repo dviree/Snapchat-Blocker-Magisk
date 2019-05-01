@@ -3,6 +3,8 @@
 **[Includes the following]**
 + Ad Blocking
 + Analytics Blocking
++ [NEW] Blocking Location
++ [NEW] Blockin Weather
 + Potential ban prevention on 10.20 +
 + Data saving (For celluar / wifi)
 
@@ -17,3 +19,6 @@
 
 **[Donate]**
 + https://shoppy.gg/product/4v33JGL
+
+**[Known Issues]**
++ 10.55 & Higher may show (some) ads as they redirected to app.snapchat.com/rpc/ads (Blocking this would require hooks)
