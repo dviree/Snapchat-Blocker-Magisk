@@ -3,8 +3,8 @@
 **[Includes the following]**
 + Ad Blocking
 + Analytics Blocking
-+ [NEW] Blocking Location
-+ [NEW] Blockin Weather
++ **[NEW]** Blocking Location
++ **[NEW]** Blocking Weather
 + Potential ban prevention on 10.20 +
 + Data saving (For celluar / wifi)
 
