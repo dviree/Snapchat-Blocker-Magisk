@@ -21,3 +21,8 @@
 0.0.0.0 ad-center.snapchat.com
 0.0.0.0 adserver.staging.snapads.com
 0.0.0.0 snapchat-snapads-portal.appspot.com
+0.0.0.0 weather.sc-jpl.com
+0.0.0.0 loc.sc-jpl.com
+0.0.0.0 loc-staging.sc-jpl.com
+0.0.0.0 loca-staging.sc-jpl.com
+0.0.0.0 loca.sc-jpl.com
